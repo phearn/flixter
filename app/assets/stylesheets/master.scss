@@ -3,8 +3,8 @@
 body {
 	font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;	font-size: 1rem;
 	background: image_url('bg.png');
-}
 
+}
 .navbar {
 	background: image_url('agsquare.png');
 	box-shadow: 0px 1px 3px #2a2a2a;
@@ -76,4 +76,12 @@ h1, h2, h3, h4, h5, h6, .navbar {
 
 .booyah-box h2, .booyah-box h1 {
   margin: 10px;
+}
+
+.help-block {
+	color: #ff3333;
+	background-color: #FFEEEE;
+	border-radius: 3px;
+	padding-right: 2px 8px 2px 8px;
+	margin: 10px;
 }
